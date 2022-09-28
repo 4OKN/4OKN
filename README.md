@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4OKN
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on starting from scratch
 - 📫 How to reach me: my profile section
 
